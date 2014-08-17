@@ -5,13 +5,13 @@ Created: August 8, 2014
 
 Updated: 
 
-* [August 17, 2014](add link when the commit has been made) (Added information on use of Twitter and Facebook tokens.)
+* [August 17, 2014](https://github.com/newslynx/data-retention/commit/aede9bd68b087b6a3e32a7767334465987d6624a#diff-d41d8cd98f00b204e9800998ecf8427e) (Added information on use of Twitter and Facebook tokens.)
 
 This is data retention policy applicable to newsrooms participating in our research. If you are a participating newsroom, please read through it and, if you have any questions, please email us at <contact@newslynx.org>.
 
 #### What is the project?
 
-NewsLynx is a research project at Columbia University's Tow Center for Digital Journalism that aims to better understand how newsrooms measure the impact of their work. The primary researchers are [Michael Keller](http://mhkeller.com), [Brian Abelson](http://brianabelson.com) & [Stijn DeBrouwere](http://stdout.be).
+NewsLynx is a research project at Columbia University's Tow Center for Digital Journalism that aims to better understand how newsrooms measure the impact of their work. The primary researchers are [Michael Keller](http://mhkeller.com) & [Brian Abelson](http://brianabelson.com).
 
 #### What data will you collect?
 
