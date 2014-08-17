@@ -47,6 +47,6 @@ Only you and the researchers can see your data unless you explicitly choose to a
 
 For each article your site publishes, NewsLynx checks for mentions of it in a lot of different data sources: Twitter and Facebook being two of these. These services put limits on the number of requests any one entity (as represented through an "account token") can make in a given time. By authenticating NewsLynx with those platforms, we can make requests for your account with your account token and not under one shared NewsLynx account, which would max out quickly.
 
-Your account token will only be used to collect data regarding your account.
+Your account token will only be used to collect data regarding your account. We cannot post to your accounts and we cannot see or access your account passwords.
 
 
