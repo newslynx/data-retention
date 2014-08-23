@@ -6,7 +6,7 @@ Created: August 8, 2014
 Updated: 
 
 * [August 17, 2014](https://github.com/newslynx/data-retention/commit/aede9bd68b087b6a3e32a7767334465987d6624a#diff-d41d8cd98f00b204e9800998ecf8427e) (Added information on use of Twitter and Facebook tokens.)
-* [August 23, 2014](link tk when the commit goes through and returns a url) (Updated information on use of Twitter and Facebook tokens.)
+* [August 23, 2014](https://github.com/newslynx/data-retention/commit/d0c30a75c63e0b2f1e512291daab8903b5ef81a6#diff-d41d8cd98f00b204e9800998ecf8427e) (Updated information on use of Twitter and Facebook tokens.)
 
 This is data retention policy applicable to newsrooms participating in our research. If you are a participating newsroom, please read through it and, if you have any questions, please email us at <contact@newslynx.org>.
 
