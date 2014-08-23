@@ -6,6 +6,7 @@ Created: August 8, 2014
 Updated: 
 
 * [August 17, 2014](https://github.com/newslynx/data-retention/commit/aede9bd68b087b6a3e32a7767334465987d6624a#diff-d41d8cd98f00b204e9800998ecf8427e) (Added information on use of Twitter and Facebook tokens.)
+* [August 23, 2014](link tk when the commit goes through and returns a url) (Updated information on use of Twitter and Facebook tokens.)
 
 This is data retention policy applicable to newsrooms participating in our research. If you are a participating newsroom, please read through it and, if you have any questions, please email us at <contact@newslynx.org>.
 
@@ -47,6 +48,8 @@ Only you and the researchers can see your data unless you explicitly choose to a
 
 For each article your site publishes, NewsLynx checks for mentions of it in a lot of different data sources: Twitter and Facebook being two of these. These services put limits on the number of requests any one entity (as represented through an "account token") can make in a given time. By authenticating NewsLynx with those platforms, we can make requests for your account with your account token and not under one shared NewsLynx account, which would max out quickly.
 
-Your account token will only be used to collect data regarding your account. We cannot post to your accounts and we cannot see or access your account passwords.
+Your account token will only be used to collect data regarding your account. The only distinction to be made is if you're following the exact same data source as another NewsLynx user. For instance, if you and another account are both following the `members-of-congress` list by the `cspan` twitter account, in order to avoid duplicative data collection, NewsLynx will sometimes use your credentials to save those tweets and sometimes another account's and both newsrooms will have access to those raw tweets. This setup lessens the workload for all without sharing any private data.
+
+We cannot post to your accounts and we cannot see or access your account passwords.
 
 
